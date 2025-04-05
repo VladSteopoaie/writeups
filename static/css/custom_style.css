@@ -22,5 +22,53 @@
     align-items: center;
 }
 
+/* My changes start here */
+/* dropdown style */
+.dropdown-summary {
+    user-select: none; /* Prevent text selection */
+    outline: none; /* Remove focus outline */
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: baseline;
+}
 
+.dropdown-summary::-webkit-details-marker {
+    display: none;
+}
 
+.dropdown[open] > .dropdown-summary ~ * {
+    margin-left: 10px;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.dropdown > .dropdown-summary > .dropdown-icon {
+    margin-left: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: var(--darkmaincolor); /* TODO: change this when theme is changed */
+    transition: transform 0.3s ease;
+}
+
+.dropdown[open] > .dropdown-summary > .dropdown-icon {
+    transform: rotate(90deg);
+}
+
+/* fade animation for dorpdown content */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-5px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+/* Overwrite hr css from assets/css/main.css */
+hr {
+    border: 0;
+    border-top: 0.4em dotted var(--darkbordercl); /* TODO: take care of light mode */
+    margin: 1em 0;
+}
