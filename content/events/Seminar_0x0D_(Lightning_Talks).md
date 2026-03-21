@@ -10,4 +10,7 @@ It can be as short as you like (even 1 minute), and as long as 20 minutes. Compl
 
 | Title <div style="width:290px"></div> | Speaker <div style="width:90px"></div> | Place <div style="width:100px"></div> | Datetime <div style="width:150px"></div> | Slides <div style="width:40px"></div> |
 | :---: | :-----: |:------------------------------------:| :------: | :----: |
-| TBA | TBA | Room TBA, Politehnica Business Tower | 17 Dec 2025 18:00 | N/A |
+| Companies hate me for presenting this amazing idea | MettleSphee | Room 512 @ PBT | 17 Dec 2025 18:00 | [Link](https://docs.google.com/presentation/d/1mpK5V56zOI0LrFI5D2xYcVPqPWJgJt_s7M5aBVhs5Us/edit?usp=sharing) |
+| Securing your Router | sunbather | Room 512 @ PBT | 17 Dec 2025 18:00 | [Link](https://docs.google.com/presentation/d/1_AuMEWqIDkaNtF78iVuVYrt3geyYQe5OVw13QVYIgFw/edit?usp=sharing) |
+| Indie Web - Quickstart Guide | mehanix | Room 512 @ PBT | 17 Dec 2025 18:00 | [Link](https://docs.google.com/presentation/d/1K0ayyR6GgBQJUrtu4t-5Wb5mGMv3RRtfDL0Ql7X2ff8/edit?usp=drivesdk) |
+| When you’re a hammer, Everything looks like a nail | Mega | Room 512 @ PBT | 17 Dec 2025 18:00 | [Link](https://docs.google.com/presentation/d/1Cv9lDYRytV3TK_tpb7SphYoGr3_i7zO6ftJagtowLr4/edit?usp=sharing) |
